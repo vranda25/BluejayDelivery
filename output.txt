@@ -1,0 +1,20 @@
+﻿Emp who has worked for 7 consecutive days :
+1  :  ('XEpez WAWez, XAis', 'WFS000522')
+2  :  ('AXcEcer, ECar JesAs', 'WFS000541')
+3  :  ('SiWgh, JaspreeM', 'WFS000424')
+4  :  ('CEreira Jr, JEse', 'WFS000456')
+
+
+Emp  who have less than 10 hours of time between shifts but greater than 1 hour :
+1  :  ('De Xa Cerda, IgWaciE', 'WFS000318')
+2  :  ('Xee, XaCar', 'WFS000200')
+3  :  ('HaCiXMEW, DeaWMe DevEW', 'WFS000536')
+4  :  ('DeXgadiXXE REdarMe, ChrisMiaW S', 'WFS000523')
+5  :  ('MraW, WiXXiaC Ha', 'WFS000345')
+6  :  ('CaMaXaWE, CeghaW', 'WFS000153')
+7  :  ('CEreira Jr, JEse', 'WFS000456')
+8  :  ('REdrigAez, GraWdEW AWgeX', 'WFS000550')
+
+
+Emp who has worked for more than 14 hours in a single shift :
+1  :  ('DeXgadiXXE REdarMe, ChrisMiaW S', 'WFS000523')
