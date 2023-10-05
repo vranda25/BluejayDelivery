@@ -61,6 +61,7 @@ for index, row in df.iterrows():
 
         previous_shift_end = row['Time Out']
 
+# print the output to the console
 print('Emp who has worked for 7 consecutive days :')
 j = 0
 for i in qa:
